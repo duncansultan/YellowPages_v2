@@ -1,0 +1,11 @@
+{
+  "name": "YellowPages_v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Duncan Hill <duncansultan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apify": "^0.14.8",
+    "json2csv": "^4.5.1"
+  }
+}
